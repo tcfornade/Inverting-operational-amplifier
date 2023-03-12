@@ -1,0 +1,1 @@
+# Inverting-operational-amplifier
